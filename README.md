@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **PHP , Wordpress , Plugins and Theme Development**
 
 - 📫 How to reach me **raiaause00@gmail.com**
-- 📄 Know about my experiences [[https://drive.google.com/file/d/12D0X4WuzPZmCRcTrWjx_5hE4FYQ7xXOv/view?usp=sharing](https://drive.google.com/file/d/12D0X4WuzPZmCRcTrWjx_5hE4FYQ7xXOv/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1Fj5s58M3Q25GmDUQn3-OEAWnkS6etYmd/view?usp=sharing) 
 
 
 <h3 align="left">Connect with me:</h3>
