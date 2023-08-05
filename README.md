@@ -1,5 +1,6 @@
  <p>
  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"" alt="ayush_intro.gif">
+  
 # About_me
 <h1 align="center">Hi 👋, I'm Ayush Kumar Rai</h1>
 <h3 align="center">A passionate Web Developer</h3>
