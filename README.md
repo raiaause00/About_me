@@ -12,8 +12,6 @@
 - 📄 Know about my experiences (https://drive.google.com/file/d/1Fj5s58M3Q25GmDUQn3-OEAWnkS6etYmd/view?usp=sharing)
 
 ## 🌐 Socials:<p align="left">
-
-<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ayush-kumar-rai-71a918174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-rai-71a918174" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aalsi_aause/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalsi_aause" height="30" width="40" /></a>
 </p>
